@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Guia de Jogos**
+## **README.md Descontraído para o seu Guia de Jogos - Imersão Dev com Google Gemini **
 
 ### **Seu Guia de Jogos: Encontre seus próximos favoritos com facilidade!**
 
