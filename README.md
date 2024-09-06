@@ -1,10 +1,10 @@
-## **README.md Descontraído para o seu Guia de Jogos - Imersão Dev com Google Gemini **
+## ** Seu Guia de Jogos - Imersão Dev com Google Gemini **
 
-### **Seu Guia de Jogos: Encontre seus próximos favoritos com facilidade!**
+### **Guia de Jogos: Encontre seus jogos favoritos com facilidade!**
 
 **O que é isso?**
 
-É um site simples e intuitivo para você encontrar seus próximos jogos favoritos. Funciona como uma pequena enciclopédia de games, onde você pode pesquisar por nome, descrição ou até mesmo ano de lançamento! 
+É um site simples e intuitivo para você encontrar seus próximos jogos favoritos. Funciona como uma pequena enciclopédia de games, onde você pode pesquisar por nome, descrição, palavras chaves ou até mesmo ano de lançamento! 
 
 **Como funciona a mágica?**
 
